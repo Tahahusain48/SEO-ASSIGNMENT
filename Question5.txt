@@ -1,0 +1,19 @@
+Define Favicon and give illustrative Example?
+A favicon is a tiny icon that appears in your web browser's tab when you visit a website. It helps you quickly recognize and find a particular website among your open tabs or bookmarks
+To add a favicon to a webpage in HTML, you use the following code within the <head> section of your HTML document
+
+Example
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+</body>
+</html>
+
+1)<link rel="icon" is used to tell the browser that this is a favicon
+2)href="favicon.ico" points to the location of the favicon image file. Replace "favicon.ico" with your own favicon image file name.
+3)type="image/x-icon", it specifies that the favicon is in the ICO (Icon) format, which is a common format for favicons.

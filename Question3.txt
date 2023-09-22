@@ -1,0 +1,6 @@
+What are the benifits of using meta tags?
+Meta tags are snippets of HTML code that provide information about a webpage to search engines and website visitors. While some meta tags have become less important for SEO over the years due to changes in search engine algorithms, they still offer several benefits
+1)Improved Search Engine Visibility
+2)Enhanced Click-Through Rates
+3)Better User Experience
+4)Accessibility
